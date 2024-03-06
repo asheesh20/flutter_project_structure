@@ -1,6 +1,6 @@
-# flutter_project_structure
+# Flutter Project Structure
 
-A new Flutter project.
+This is demo flutter project structure.
 
 ## Getting Started
 
