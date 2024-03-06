@@ -1,0 +1,1 @@
+// this contains constant like height, width of the app.

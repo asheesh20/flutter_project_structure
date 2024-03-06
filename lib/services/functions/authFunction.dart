@@ -1,0 +1,1 @@
+// this consists of function code for the auth screen (ex: working with firebase)
